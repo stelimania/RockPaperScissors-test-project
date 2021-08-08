@@ -1,4 +1,4 @@
-# RockPaperScissors test project
+# RockPaperScissors test project - my version
 
 You will create a smart contract named `RockPaperScissors` whereby:  
 Alice and Bob can play the classic game of rock, paper, scissors using ERC20 (of your choosing).    
